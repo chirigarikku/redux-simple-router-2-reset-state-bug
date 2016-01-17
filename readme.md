@@ -5,7 +5,7 @@ Demo reproducing a redux-simple-router 2 bug.
 ![gif preview](preview.gif)
 
 ## Behavior
-Resetting the `state` doesn't store the value of `location`.
+The `state.routing.location` key loses its value when the `state` is reset.
 
 ## Running
 ```bash
