@@ -1,5 +1,5 @@
 # rsr2-bug
-Demo reproducing an r2r-bug
+Demo reproducing a redux-simple-router 2 bug.
 
 ## Preview
 ![gif preview](preview.gif)
